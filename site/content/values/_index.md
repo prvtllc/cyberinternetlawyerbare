@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: //img/wp-content/uploads/2013/12/cropped-RiveraLaw2.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
