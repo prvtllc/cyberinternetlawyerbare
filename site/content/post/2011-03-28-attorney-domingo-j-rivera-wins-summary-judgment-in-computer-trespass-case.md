@@ -1,0 +1,63 @@
+---
+id: 2553
+title: Attorney Domingo J. Rivera wins Summary Judgment in Computer Trespass Case
+date: 2011-03-28T19:46:00+00:00
+author: admin
+excerpt: |
+  In another pioneer decision, attorney <a href="http://cyberinternetlawyer.com" target="" class="">Domingo J. Rivera</a> obtained summary judgment in a case involving an ex-husband accessing his
+  wife's email and social network accounts without authorization. <br />
+  <br />
+  There has been <a href="http://www.thenewnewinternet.com/2010/12/28/possible-jail-time-for-email-snooping-husband/" target="_blank" class="">some discussion</a> in the news about a Michigan man that
+  criminally charged with with accessing his wife's computer accounts.&nbsp; Some commentators have argued that utilizing the computer hacking statutes to prosecute these acts is overreaching, but so
+  far, the courts have provided little guidance on this issue. <br />
+  <br />
+  Many Federal and State <a href="http://cyber-crime-defense.com" target="_blank" class="">computer crime statutes</a> provide not only criminal, but also civil remedies for the victims. Recently,
+  <a href="http://domingorivera.com" target="_blank" class="">attorney Domingo Rivera</a> handled one of these civil cases.&nbsp; As is the case for many pioneering cases handled by <a href="http://cybernetattorneys.com/domingorivera.html" target="_blank" class="">attorney Domingo Rivera</a>, this was a case that other attorneys expressed doubt about and that opposing counsel openly
+  minimized. <br />
+  <br />
+  In this case, the opposing party claimed that the divorce property settlement agreement barred our client's claims and filed a counterclaim against our client for breach of the agreement. We also
+  obtained summary judgment dismissing this claim against our client. <br />
+  <br />
+  The Court not only agreed with the legal argument advance by <a href="http://cyberdefamationlawyer.com" target="" class="">attorney Domingo Rivera</a>, but also granted summary judgment.&nbsp;
+  Obtaining summary judgment means that we prevailed as a matter of law and that a trial to establish liability was not necessary. &nbsp; The Court expertly discussed the standard for summary judgment:
+  <br />
+  <br />
+  <blockquote>
+  <blockquote>In determining whether summary judgment is appropriate, the burden is placed on the ...</blockquote></blockquote>
+layout: post
+guid: http://cyberinternetlawyer.com/attorney-domingo-j-rivera-wins-summary-judgment-in-computer-trespass-case.html
+permalink: /attorney-domingo-j-rivera-wins-summary-judgment-in-computer-trespass-case/
+categories:
+  - Blog
+  - Uncategorized
+---
+In another pioneer decision, attorney <a href="http://cyberinternetlawyer.com" target="" class="">Domingo J. Rivera</a> obtained summary judgment in a case involving an ex-husband accessing his wife&#8217;s email and social network accounts without authorization.&nbsp; 
+
+There has been <a href="http://www.thenewnewinternet.com/2010/12/28/possible-jail-time-for-email-snooping-husband/" target="_blank" class="" rel="nofollow" >some discussion</a> in the news about a Michigan man that criminally charged with with accessing his wife&#8217;s computer accounts.&nbsp;&nbsp; Some commentators have argued that utilizing the computer hacking statutes to prosecute these acts is overreaching, but so far, the courts have provided little guidance on this issue.
+
+Many Federal and State <a href="http://cyber-crime-defense.com" target="_blank" class="" rel="nofollow" >computer crime statutes</a> provide not only criminal, but also civil remedies for the victims.&nbsp; Recently, <a href="http://domingorivera.com" target="_blank" class="" rel="nofollow" >attorney Domingo Rivera</a> handled one of these civil cases.&nbsp;&nbsp; As is the case for many pioneering cases handled by <a href="http://cybernetattorneys.com/domingorivera.html" target="_blank" class="" rel="nofollow" >attorney Domingo Rivera</a>, this was a case that other attorneys expressed doubt about and that opposing counsel openly minimized.&nbsp; 
+
+In this case, the opposing party claimed that the divorce property settlement agreement barred our client&#8217;s claims and filed a counterclaim against our client for breach of the agreement.&nbsp; We also obtained summary judgment dismissing this claim against our client.
+
+The Court not only agreed with the legal argument advance by <a href="http://cyberdefamationlawyer.com" target="" class="" target="_blank"  rel="nofollow" >attorney Domingo Rivera</a>, but also granted summary judgment.&nbsp;&nbsp; Obtaining summary judgment means that we prevailed as a matter of law and that a trial to establish liability was not necessary. &nbsp; The Court expertly discussed the standard for summary judgment:
+
+> > In determining whether summary judgment is appropriate, the burden is placed on the moving party to establish both the absence of a genuine issue of material fact and that it is entitled to judgment as a matter of law. See Fed. R. Civ. P. 56(c); Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 586-87 (1986); Nat’l. Bank of Commerce of El Dorado, Ark. v. Dow Chem. Co., 165 F.3d 602 (8th Cir. 1999). The Court must review the facts in a light most favorable to the party opposing a motion for summary judgment and give that party the benefit of any inferences that logically can be drawn from those facts. Canada v. Union Elec. Co., 135 F.3d 1211, 1212-13 (8th Cir. 1998) (citing Buller v. Buechler, 706 F.2d 844, 846 (8th Cir. 1983)).  
+> > Once the moving party demonstrates that the record does not disclose a genuine dispute on a material fact, the non-moving party may not rest upon the mere allegations or denials of his pleadings, but his response, by affidavits or as otherwise provided in Rule 56, must set forth specific facts showing that there is a genuine issue for trial. Ghane v. West, 148 F.3d 979, 981 (8th Cir. 1998)(citing Burst v. Adolph Coors Co., 650 F.2d 930, 932 (8th Cir. 1981)). In order for there to be a genuine issue of material fact, the non-moving party must produce evidence “such that a reasonable jury could return a verdict for the nonmoving party.” Allison v. Flexway Trucking, Inc., 28 F.3d 64, 66 (8th Cir. 1994) (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986)). Furthermore, “[w]here the unresolved issues are primarily legal rather than factual, summary judgment is particularly appropriate.” Aucutt v. Six Flags Over Mid-America, Inc., 85 F.3d 1311, 1315 (8th Cir. 1996)(quoting Crain v. Bd. of Police Comm’rs, 920 F.2d 1402, 1405-06 (8th Cir. 1990)).
+
+The Court then moved on to the respective arguments of the parties, <a href="http://domingorivera.net" target="" class="" target="_blank"  rel="nofollow" >attorney Domingo Rivera</a> represented the Plaintiff.&nbsp; The Court explained:
+
+> III. Plaintiff’s Claims
+
+> > As a threshold matter, Defendant claims that Plaintiff is barred from bringing her claims by the terms of the Property Settlement Agreement (the “Agreement”) signed by both parties as a part of the parties’ divorce proceeding. Defendant’s counterclaim alleges that Plaintiff is in breach of contract for bringing the present claims. In signing the Agreement, both parties acknowledged that they had been represented by counsel prior to executing the Agreement. “Settlement agreements are contracts subject to the general rules of contract construction.” Hill v. Southside Public Schools, 688 F.Supp. 493, 497 (E.D. Ark. 1988) (quoting N.L.R.B. v. Superior Forwarding, Inc., 762 F.2d 695, 697 (8th Cir. 1985)). The Court is to construe any agreement to give effect to the intent of the parties. Id. The intent of the parties is determined by reviewing the language of the contract itself, as well as by considering “the circumstances surrounding the making of the contract, its subject, and the situation and relation of the parties at the time of its making.” Id. (quoting Louisiana-Nevada Transit Co. V. Woods, 393 F. Supp. 177, 184 (W.D. Ark. 1975)).
+
+> > The Agreement was meant to settle any and all claims related to the divorce proceeding. It strains logic to infer that the parties’ intended to waive the ability to bring any and all claims, including federal claims that could not have been litigated in a state divorce proceeding, that could ever potentially arise between the parties. Taking into consideration the fact that the parties were forming and signing the agreement in the context of a divorce proceeding; the subject and purpose of the agreement was to settle issues “arising out of this [divorce] litigation”. (Doc. 8, p. 11, ex. A). The fact that the divorce proceeding took place in state court that would not have jurisdiction over many of the claims Plaintiff now raises, can only lead the Court to conclude that Plaintiff did not waive her ability to bring the instant claims. While the alleged conduct may have taken place prior to and during the pendency of the divorce proceedings, the Court does not find Plaintiff’s claims to be intertwined with the Agreement such that she would now be precluded from bringing her claims in federal court.
+
+> > Defendant also argues that Plaintiff is precluded from bringing her claims because the court presiding over the custody proceeding admitted the materials that he accessed into evidence. A court’s admission of materials into evidence is not relevant to the issues currently before the court. The judge in that proceeding made no determination as to the merits of the present claims. As Defendant points out, Plaintiff may have been able to appeal the decision to admit the evidence, but she also has the independent ability to pursue separate claims in this Court. For these reasons, the Court finds that Plaintiff is entitled to Summary Judgment on Defendant’s Counterclaim, and her motion as to the counterclaim (doc. 22) is GRANTED.
+
+Finally, the Court explored the applicability of the Stored Communications Act and the State Computer Trespass statutes:
+
+> > ii. Federal Stored Communications Act (SCA)
+> 
+> > The relevant section of the SCA provides that whoever “intentionally accesses without authorization a facility through which an electronic communication service is provided; or intentionally exceeds an authorization to access that facility; and thereby obtains . . . access to a wire or electronic communication while it is in electronic storage in such system shall be punished . . .” 18 U.S.C. § 2701(a). The statute allows for private causes of action where “any person” injured by a violati  
+> > on of the SCA can show that the person viola  
+> > ting the Act acted with a
