@@ -4,7 +4,7 @@ title: >-
   Liability
 date: 2013-12-05T05:20:50.000Z
 description: >-
-  hrough trickery and social engineering, attackers tricked users into
+  Through trickery and social engineering, attackers tricked users into
   downloading Poison Ivy, an off the shelf Trojan. This was a targeted attack
   directed at at companies involved in the research, development and manufacture
   of chemicals and advanced materials. After the compromise, the attackers
