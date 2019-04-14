@@ -1,5 +1,5 @@
 ---
-title: Attorney Domingo Rivera Chosen as one of the Top 100 Trial Lawyers
+title: Attorney Domingo Rivera Chosen as one of the "Top 100 Trial Lawyers"
 date: 2014-07-08T18:23:41.000Z
 description: >-
   Domingo J. Rivera was selected as one of the Top 100 Trial Lawyers by the
