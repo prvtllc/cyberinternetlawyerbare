@@ -1,13 +1,12 @@
 ---
-id: 2555
-title: 'Attorney Domingo Rivera Chosen as one of the &#8220;Top 100 Trial Lawyers&#8221;'
-date: 2014-07-08T18:23:41+00:00
-author: admin
-layout: post
-guid: http://cyberinternetlawyer.com/?p=724
-permalink: /attorney-domingo-rivera-chosen-as-one-of-the-top-100-trial-lawyers/
-categories:
-  - Blog
+title: Attorney Domingo Rivera Chosen as one of the "Top 100 Trial Lawyers"
+date: 2014-07-08T18:23:41.000Z
+description: >-
+  Domingo J. Rivera was selected as one of the Top 100 Trial Lawyers by the
+  National Trial Lawyers Association. Membership into The National Trial Lawyers
+  Association is by invitation only and is limited to the Top 100 Trial Lawyers
+  from each state.
+image: /img/AVMCyberLaw2.jpg
 ---
 Domingo J. Rivera was selected as one of the Top 100 Trial Lawyers by the National Trial Lawyers Association. Membership into The National Trial Lawyers Association is by invitation only and is limited to the Top 100 Trial Lawyers from each state.
 
