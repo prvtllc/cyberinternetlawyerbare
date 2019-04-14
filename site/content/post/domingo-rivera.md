@@ -1,44 +1,21 @@
 ---
-id: 77
 title: Domingo Rivera
-date: 2010-05-20T02:13:41+00:00
-author: admin
-excerpt: |
-  Domingo J. Rivera, Internet Lawyer
-  
-  An Internet Law pioneer with a proven record, Domingo J. Rivera was the first attorney in the United States to win a complex jury trial involving Federal Copyright Infringement, music piracy criminal allegations.
-  
-  Domingo J. Rivera earned a BS in Computer Engineering, an MBA with a specialty in Information Technology Management, and a Doctorate of Jurisprudence.  Domingo J. Rivera is also a registered Electrical Engineering E.I.T. in the State of Florida.
-  
-  Prior to attending law school, he was a US Navy Engineering Officer, and was lead engineer for the Homeland Security Headquarters located in Norfolk, Virginia. In that capacity, Mr. Rivera held a Department of Defense Top Secret Clearance with NATO access.
-  
-  Domingo J. Rivera has over ten years of software programming and development.  His technical abilities are exceptional, with advanced knowledge of most popular computer programming languages including C++, PHP, CGI, Pascal, Java, Visual Basic, HTML,  XML, and several other programming languages.
-  
-  Domingo J. Rivera, Internet Lawyer, is a member of the Institute of Electrical and Electronics Engineers, the American Intellectual Property Law Association, the Virginia State Bar, the American Bar Association, and the Virginia Association of Criminal Defense Lawyers.  He is also fluent in the Spanish language.
-  
-  When the Department of Defense needed a technical and management person to lead one its most important projects during a critical time in the history of the United States, Domingo J. Rivera received the call.  As your Internet Lawyer, Domingo J. Rivera will apply the same high standards to assist you with your Internet Law case.  You should expect no less from your Internet Lawyer.
-layout: post
-guid: http://cyberinternetlawyer.com/?p=77
-permalink: /domingo-rivera/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-categories:
-  - Internet Lawyer Domingo Rivera
+date: 2010-05-20T02:13:41.000Z
+description: "The first attorney in the United States to obtain a major victory after a jury trial against the FBI and the DOJ in an case involving criminal copyright infringement allegations.\_ The client was accused of being the leader of the world's most prolific music piracy group.\_ The case began in the United States District Court for the Eastern District of Virginia and was decided in the USDC for the Southern District of Texas."
+image: /img/AVMCyberLaw2.jpg
 ---
 ### Domingo J. Rivera, Esq., JD, M.S., MBA, CISSP, GPEN, CEH, GSLC, GCIH, EIT
 
 **Legal Decision Highlights**:
 
-  * The first attorney in the United States to obtain a major victory after a jury trial against the FBI and the DOJ in an case involving criminal copyright infringement allegations.  The client was accused of being the leader of the world&#8217;s most prolific music piracy group.  The case began in the United States District Court for the Eastern District of Virginia and was decided in the USDC for the Southern District of Texas.
-  * Has obtained Summary Judgment in Federal cases involving computer trespass including the first civil case based on the Computer Fraud and Abuse Act and the Stored Communications Act decided by the Arkansas Federal Court.
-  * Has obtained Summary Judgment in Federal cases involving online defamation, trademark infringement, invasion of privacy.  Obtained recent Summary Judgment involving online defamation and trademark infringement in the USDC for the Middle District of Florida.
-  * Has won cases involving Internet defamation in several State and Federal Court cases after hotly contested trials.
-  * Has obtained injunctions against Internet defamation.  Injunctive relief is generally hard to obtain in Internet defamation cases because of Free Speech implications.
-  * Regularly teaches CLEs to other attorneys on Internet law matters.
-  * Has published scholarly articles in widely published legal publications regarding issues related to Internet law and Internet defamation.
-  * Is one of the few attorneys holding Information Security Certifications, including the prestigious CISSP, GPEN, GCIH, GSLC, CEH.  Of those, is also one of the select few with vast experience defending highly sensitive computer networks.
+* The first attorney in the United States to obtain a major victory after a jury trial against the FBI and the DOJ in an case involving criminal copyright infringement allegations.  The client was accused of being the leader of the world's most prolific music piracy group.  The case began in the United States District Court for the Eastern District of Virginia and was decided in the USDC for the Southern District of Texas.
+* Has obtained Summary Judgment in Federal cases involving computer trespass including the first civil case based on the Computer Fraud and Abuse Act and the Stored Communications Act decided by the Arkansas Federal Court.
+* Has obtained Summary Judgment in Federal cases involving online defamation, trademark infringement, invasion of privacy.  Obtained recent Summary Judgment involving online defamation and trademark infringement in the USDC for the Middle District of Florida.
+* Has won cases involving Internet defamation in several State and Federal Court cases after hotly contested trials.
+* Has obtained injunctions against Internet defamation.  Injunctive relief is generally hard to obtain in Internet defamation cases because of Free Speech implications.
+* Regularly teaches CLEs to other attorneys on Internet law matters.
+* Has published scholarly articles in widely published legal publications regarding issues related to Internet law and Internet defamation.
+* Is one of the few attorneys holding Information Security Certifications, including the prestigious CISSP, GPEN, GCIH, GSLC, CEH.  Of those, is also one of the select few with vast experience defending highly sensitive computer networks.
 
 **Education Highlights**:
 
