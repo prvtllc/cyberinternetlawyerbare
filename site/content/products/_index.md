@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: AVM Cyber Law
 image: /img/AVMCyberLaw2.jpg
-heading: What we offer
+heading: Domingo J. Rivera - Forensics Expert and Cyber Lawyer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
