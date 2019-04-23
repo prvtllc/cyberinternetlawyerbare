@@ -2,15 +2,15 @@
 title: DMCA
 date: 2010-05-21T02:28:04.000Z
 description: >-
-  The Digital Millennium Copyright Act &#8211; The Digital Millennium Copyright
-  Act (DMCA), codified in 17 U.S.C. § 512, amended the U.S. Copyright Act of
-  1976. The DMCA provides for severe civil and criminal penalties for
-  circumventing technical measures protecting copyrighted works.
+  The Digital Millennium Copyright Act  The Digital Millennium Copyright Act
+  (DMCA), codified in 17 U.S.C. § 512, amended the U.S. Copyright Act of 1976.
+  The DMCA provides for severe civil and criminal penalties for circumventing
+  technical measures protecting copyrighted works.
 image: /img/AVMCyberLaw2.jpg
 ---
 ### The Digital Millennium Copyright Act
 
-The Digital Millennium Copyright Act &#8211; The Digital Millennium Copyright Act (DMCA), codified in 17 U.S.C. § 512, amended the U.S. Copyright Act of 1976. The DMCA provides for severe civil and criminal penalties for circumventing technical measures protecting copyrighted works. The DMCA protects Internet Service Providers (ISPs) from liability arising from acts by the ISP’s customers. However, there are certain conditions that an ISP must meet in order to qualify for the Act’s safe harbor provisions.
+The Digital Millennium Copyright Act The Digital Millennium Copyright Act (DMCA), codified in 17 U.S.C. § 512, amended the U.S. Copyright Act of 1976. The DMCA provides for severe civil and criminal penalties for circumventing technical measures protecting copyrighted works. The DMCA protects Internet Service Providers (ISPs) from liability arising from acts by the ISP’s customers. However, there are certain conditions that an ISP must meet in order to qualify for the Act’s safe harbor provisions.
 
 To enjoy safe harbor protection, an ISP must:
 
