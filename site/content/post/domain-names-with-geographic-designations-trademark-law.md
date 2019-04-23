@@ -2,6 +2,7 @@
 title: Domain Names With Geographic Designations - Trademark Law
 date: 2011-10-17T16:22:06.000Z
 description: "Domain name disputes and domain name litigation are important areas of Internet law.\_ Sometimes an individual registers a domain name containing a a geographic designation, such as the name of a city."
+image: /img/AVMCyberLaw2.jpg
 ---
 Domain name disputes and domain name litigation are important areas of Internet law.  Sometimes an individual registers a domain name containing a a geographic designation, such as the name of a city.  Whether the domain name owner enjoys trademark protection depends on certain elements.  What if the domain name registered includes the name of a foreign city and the foreign city prevails in a UDRP proceeding?  Can the domain name owner sue in court in the U.S.?
 
