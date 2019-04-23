@@ -6,6 +6,7 @@ description: >-
   name laws. The laws applying to domain name issues and domain name disputes
   are specialized and it is best to get advice from an experienced domain name
   lawyer.
+image: /img/AVMCyberLaw2.jpg
 ---
 ### Domain Name Dispute Lawyer
 
