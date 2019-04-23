@@ -1,113 +1,7 @@
 ---
-id: 120
 title: Communications Decency Act -Sec. 230
-date: 2010-05-21T01:54:00+00:00
-author: admin
-excerpt: |
-  The Communications Decency Act
-  
-  §230. Protection for private blocking and screening of offensive material
-  
-  (a) Findings
-  
-  The Congress finds the following:
-  
-  (1) The rapidly developing array of Internet and other interactive computer services available to individual Americans represent an extraordinary advance in the availability of educational and informational resources to our citizens.
-  
-  (2) These services offer users a great degree of control over the information that they receive, as well as the potential for even greater control in the future as technology develops.
-  
-  (3) The Internet and other interactive computer services offer a forum for a true diversity of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual activity.
-  
-  (4) The Internet and other interactive computer services have flourished, to the benefit of all Americans, with a minimum of government regulation.
-  
-  (5) Increasingly Americans are relying on interactive media for a variety of political, educational, cultural, and entertainment services.
-  
-  (b) Policy
-  
-  It is the policy of the United States --
-  
-  (1) to promote the continued development of the Internet and other interactive computer services and other interactive media;
-  
-  (2) to preserve the vibrant and competitive free market that presently exists for the Internet and other interactive computer services, unfettered by Federal or State regulation;
-  
-  (3) to encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services;
-  
-  (4) to remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children's access to objectionable or inappropriate online material; and
-  
-  (5) to ensure vigorous enforcement of Federal criminal laws to deter and punish trafficking in obscenity, stalking, and harassment by means of computer.
-  
-  (c) Protection for "good samaritan" blocking and screening of offensive material
-  
-  (1) Treatment of publisher or speaker
-  
-  No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
-  
-  (2) Civil Liability
-  
-  No provider or user of an interactive computer service shall be held liable on account of --
-  
-  (A) any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
-  
-  (B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
-  
-  (d) Obligations of interactive computer service
-  
-  A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying current providers of such protections.
-  
-  (e) Effect on other laws
-  
-  (1) No effect on criminal law
-  
-  Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of Title 18, or any other Federal criminal statute.
-  
-  
-  (2) No effect on intellectual property law
-  
-  Nothing in this section shall be construed to limit or expand any law pertaining to intellectual property.
-  
-  (3) State law
-  
-  Nothing in this section shall be construed to prevent any State from enforcing any State law that is consistent with this section. No cause of action may be brought and no liability may be imposed under any state or local law that is inconsistent with this section.
-  
-  (4) No Effect on Communications Privacy law
-  
-  Nothing in this section shall be construed to limit the application of the Electronic Communications Privacy Act of 1986 or any of the amendments made by such Act, or any similar State law.
-  
-  (f) Definitions
-  
-  As used in this section:
-  
-  (1) Internet
-  
-  The term "Internet" means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
-  
-  (2) Interactive computer service
-  
-  The term "interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
-  
-  (3) Information content provider
-  
-  The term "information content provider" means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
-  
-  (4) Access software provider
-  
-  
-  The term "access software provider" means a provider of software (including client or server software), or enabling tools that do any one or more of the following:
-  
-  (A) filter, screen, allow, or disallow content;
-  
-  (B) pick, choose, analyze, or digest content; or
-  
-  (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content
-layout: post
-guid: http://cyberinternetlawyer.com/?p=120
-permalink: /communications-decency-act/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-categories:
-  - Various Internet Defamation Laws
+date: 2010-05-21T01:54:00.000Z
+description: §230. Protection for private blocking and screening of offensive material
 ---
 ### The Communications Decency Act
 
@@ -117,43 +11,43 @@ categories:
 
 The Congress finds the following:
 
-> (1) The rapidly developing array of Internet and other interactive computer services available to individual Americans represent an extraordinary advance in the availability of educational and informational resources to our citizens.
-> 
-> (2) These services offer users a great degree of control over the information that they receive, as well as the potential for even greater control in the future as technology develops.
-> 
-> (3) The Internet and other interactive computer services offer a forum for a true diversity of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual activity.
-> 
-> (4) The Internet and other interactive computer services have flourished, to the benefit of all Americans, with a minimum of government regulation.
-> 
-> (5) Increasingly Americans are relying on interactive media for a variety of political, educational, cultural, and entertainment services.
+(1) The rapidly developing array of Internet and other interactive computer services available to individual Americans represent an extraordinary advance in the availability of educational and informational resources to our citizens.
+
+(2) These services offer users a great degree of control over the information that they receive, as well as the potential for even greater control in the future as technology develops.
+
+(3) The Internet and other interactive computer services offer a forum for a true diversity of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual activity.
+
+(4) The Internet and other interactive computer services have flourished, to the benefit of all Americans, with a minimum of government regulation.
+
+(5) Increasingly Americans are relying on interactive media for a variety of political, educational, cultural, and entertainment services.
 
 (b) Policy
 
-It is the policy of the United States &#8212;
+It is the policy of the United States 
 
-> (1) to promote the continued development of the Internet and other interactive computer services and other interactive media;
-> 
-> (2) to preserve the vibrant and competitive free market that presently exists for the Internet and other interactive computer services, unfettered by Federal or State regulation;
-> 
-> (3) to encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services;
-> 
-> (4) to remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children&#8217;s access to objectionable or inappropriate online material; and
-> 
-> (5) to ensure vigorous enforcement of Federal criminal laws to deter and punish trafficking in obscenity, stalking, and harassment by means of computer.
+(1) to promote the continued development of the Internet and other interactive computer services and other interactive media;
+
+(2) to preserve the vibrant and competitive free market that presently exists for the Internet and other interactive computer services, unfettered by Federal or State regulation;
+
+(3) to encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services;
+
+(4) to remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children&#8217;s access to objectionable or inappropriate online material; and
+
+(5) to ensure vigorous enforcement of Federal criminal laws to deter and punish trafficking in obscenity, stalking, and harassment by means of computer.
 
 (c) Protection for &#8220;good samaritan&#8221; blocking and screening of offensive material
 
-> (1) Treatment of publisher or speaker
+(1) Treatment of publisher or speaker
 
 No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
 
-> (2) Civil Liability
+(2) Civil Liability
 
-No provider or user of an interactive computer service shall be held liable on account of &#8212;
+No provider or user of an interactive computer service shall be held liable on account of 
 
-> (A) any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
-> 
-> (B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
+(A) any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
+
+(B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
 
 (d) Obligations of interactive computer service
 
@@ -161,19 +55,19 @@ A provider of interactive computer service shall, at the time of entering an agr
 
 (e) Effect on other laws
 
-> (1) No effect on criminal law
+(1) No effect on criminal law
 
 Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of Title 18, or any other Federal criminal statute.
 
-> (2) No effect on intellectual property law
+(2) No effect on intellectual property law
 
 Nothing in this section shall be construed to limit or expand any law pertaining to intellectual property.
 
-> (3) State law
+(3) State law
 
 Nothing in this section shall be construed to prevent any State from enforcing any State law that is consistent with this section. No cause of action may be brought and no liability may be imposed under any state or local law that is inconsistent with this section.
 
-> (4) No Effect on Communications Privacy law
+(4) No Effect on Communications Privacy law
 
 Nothing in this section shall be construed to limit the application of the Electronic Communications Privacy Act of 1986 or any of the amendments made by such Act, or any similar State law.
 
@@ -181,24 +75,24 @@ Nothing in this section shall be construed to limit the application of the Elect
 
 As used in this section:
 
-> (1) Internet
+(1) Internet
 
-The term &#8220;Internet&#8221; means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
+The term Internet means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
 
-> (2) Interactive computer service
+(2) Interactive computer service
 
-The term &#8220;interactive computer service&#8221; means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+The term interactive computer service means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
 
-> (3) Information content provider
+(3) Information content provider
 
-The term &#8220;information content provider&#8221; means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
+The term information content provider means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
 
-> (4) Access software provider
+(4) Access software provider
 
-The term &#8220;access software provider&#8221; means a provider of software (including client or server software), or enabling tools that do any one or more of the following:
+The term access software provider means a provider of software (including client or server software), or enabling tools that do any one or more of the following:
 
-> (A) filter, screen, allow, or disallow content;
-> 
-> (B) pick, choose, analyze, or digest content; or
-> 
-> (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content
+(A) filter, screen, allow, or disallow content;
+
+(B) pick, choose, analyze, or digest content; or
+
+(C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content
