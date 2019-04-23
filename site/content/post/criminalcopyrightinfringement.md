@@ -6,6 +6,7 @@ description: >-
   shall be punished as provided in subsections (b) and (c) of this section and
   such penalties shall be in addition to any other provisions of title 17 or any
   other law.
+image: /img/AVMCyberLaw2.jpg
 ---
 ### Criminal  Copyright Infringement
 
