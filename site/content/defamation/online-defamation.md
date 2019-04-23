@@ -1,22 +1,20 @@
 ---
 title: Internet Defamation
 date: 2010-05-19T20:28:41.000Z
-description: "Internet Defamation occurs when someone posts a false factual negative statement on the Internet.\_ We encounter Internet defamation most frequently as a result of statements posted in a web log (blog) or in an Internet forum.\_"
+description: "Internet Defamation occurs when someone posts a false factual negative statement on the Internet.\_ We encounter Internet defamation most frequently as a result of statements posted in a web log (blog) or in an Internet forum."
 image: /img/AVMCyberLaw2.jpg
 ---
 ### Internet Defamation Lawyer
 
 Internet Defamation occurs when someone posts a false factual negative statement on the Internet.  We encounter Internet defamation most frequently as a result of statements posted in a web log (blog) or in an Internet forum.  These posts constituting Internet defamation are often cached and indexed by the major search engines.
 
-_We have assisted our clients not only in removing defamatory contents from the Internet but also in identifying the anonymous post authors.  When litigation has become necessary, we have obtained legal victories for our clients, both through Summary Judgment and after hotly contested trials.  Injunctive relief ordering individuals to remove posts are not very easy to obtain due to their impact on Free Speech, but we have obtained them multiple times on behalf of our clients._
+We have assisted our clients not only in removing defamatory contents from the Internet but also in identifying the anonymous post authors.  When litigation has become necessary, we have obtained legal victories for our clients, both through Summary Judgment and after hotly contested trials.  Injunctive relief ordering individuals to remove posts are not very easy to obtain due to their impact on Free Speech, but we have obtained them multiple times on behalf of our clients._
 
 An Internet defamation attorney with our Internet defamation law firm is experienced in removing these cyber libel and online slander from the website where the defamation is posted and from the major search engines.  Whether your business is defamed in an Internet blog, Internet forum, or anywhere online, or whether you need expert advice to interpret the  Communications Decency Act, our Internet defamation attorneys can protect your reputation in cyberspace.
 
 Internet defamation law changes constantly as courts interpret the Communications Decency Act and other laws affecting you rights online.  The distinction between a service provider and a content provider is subject to different interpretations.  A recent interpretation is the Roomates.com case.
 
 Our Internet Defamation Lawyer handle all issues of Internet defamation, for example:
-
-&nbsp;
 
 * Our client was a respected plastic surgeon, who was duly licensed by the states of California, Michigan, and Virginia and was board-certified by the American Board of Oral & Maxillofacial Surgery.  A former patient posted anonymous reviews in a ratings site.  The contents of the doctor review were false and motivated by a billing dispute.  Our client needed the anonymous individual identified and held accountable.
 * We were retained for an Internet defamation matter. Our client's name was used as a keyword for spamming websites containing pornographic material. When our client's name was searched on the various search engines, the spam websites appeared, greatly harming our client's Internet reputation.
