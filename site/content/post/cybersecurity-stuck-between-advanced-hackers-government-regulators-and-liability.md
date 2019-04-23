@@ -12,10 +12,9 @@ description: >-
   data exfiltration.
 image: /img/AVMCyberLaw2.jpg
 ---
-<u>Cyber attacks occur every second of every day</u>. The frequency and sophistication of the attacks\
-continues to rise. With the increased sophistication and the proliferation of corporate espionage and nation-state actors, the days of curious teen hackers trying to prove their worth are behind us.&nbsp; Now the threat is bigger and better financed, the stakes are higher, and government intervention changes the landscape. <a href="http://www.infosecusa.com" target="_blank" class="" rel="nofollow" >Cybersecurity</a> is now a top priority for businesses and government.
+Cyber attacks occur every second of every day. The frequency and sophistication of the attacks continues to rise. With the increased sophistication and the proliferation of corporate espionage and nation-state actors, the days of curious teen hackers trying to prove their worth are behind us.&nbsp; Now the threat is bigger and better financed, the stakes are higher, and government intervention changes the landscape. Cybersecurity is now a top priority for businesses and government.
 
-We start with a brief summary of some of the recent major cyber attacks. This list is purposely kept short as to show only the more “elite” type of attacks that are shaping the new cyber landscape.&nbsp; Given their level of sophistication, these attacks frequently require in-depth analysis by <span class=""><a href="http://forensicsvirginia.com" target="_blank" class="" rel="nofollow" >computer forensics experts</a></span>.&nbsp; Here, we are focusing on the legal aspects only.
+We start with a brief summary of some of the recent major cyber attacks. This list is purposely kept short as to show only the more “elite” type of attacks that are shaping the new cyber landscape.&nbsp; Given their level of sophistication, these attacks frequently require in-depth analysis by computer forensics experts.  Here, we are focusing on the legal aspects only.
 
 <div align="center">
   <b>Timeline of Advanced Cyber Attacks</b>
@@ -55,8 +54,7 @@ _<u>Advanced Attacks of 2012</u>_
 
 The list goes on and on. As it should be obvious by now, cyber attacks, particularly those by sophisticated attackers and nation-states can be very dangerous to business and society. While money is a motivator, the exfiltration of valuable data has become a major issue. There is also the potential threat to life and business. With that in mind, the government is in the process of drafting and enacting sweeping cybersecurity laws and regulations. 
 
-Congress failed to reach a consensus on cybersecurity legislation. Following that, in early 2013,\
-President Obama issued a cybersecurity Executive Order 13636 to enhance the security of the critical infrastructure of the United States. 
+Congress failed to reach a consensus on cybersecurity legislation. Following that, in early 2013, President Obama issued a cybersecurity Executive Order 13636 to enhance the security of the critical infrastructure of the United States. 
 
 <u><i>A very raw outline of Executive Order 13636 is as follows</i></u>:
 
@@ -68,9 +66,7 @@ _But? (Caveats)_: Participation is voluntary but the Framework will most likely 
 The Executive Order requires federal agencies to share information about cyber threats and to work with the private sector to develop a cybersecurity framework to protect the critical infrastructure. For now, participation is voluntary and the Executive Order requires federal agencies to develop incentives for private sector adoption of the framework. Our guess is that some of the recommendations included in the develop framework would eventually be seen as the exercise of due care by the courts when determining liability for cybersecurity breaches. 
 
 <u>Cyber Intel Notices</u>: The Executive Order provides for the issuance of Catastrophic Target Notices. These notices identify “where a cybersecurity incident could reasonably result in catastrophic regional or national effects.” It is unclear how the notices may affect a business in the determination of due diligence. You can fore\
-see a case where a Court would decide that DHS put the company on notice of a cybersecurity vulnerability an\
-d that the company had the o\
-bligation to act in accordance with this notice. A party may have a difficult time challenging the validity of the notice, given that the information may have been derived from classified sources.&nbsp; Whether the Cyber Intel notices will became a source of notice for due care determination remains to be seen. However, we are getting guidance on how the Courts are leaning regarding cybersecurity due care issues. &#8221;
+see a case where a Court would decide that DHS put the company on notice of a cybersecurity vulnerability and that the company had the obligation to act in accordance with this notice. A party may have a difficult time challenging the validity of the notice, given that the information may have been derived from classified sources.&nbsp; Whether the Cyber Intel notices will became a source of notice for due care determination remains to be seen. However, we are getting guidance on how the Courts are leaning regarding cybersecurity due care issues. 
 
 An example is the case of <a href="http://infosecusa.com/patco-construction-company-v-peoples-united-bank" target="_blank" class="" rel="nofollow" >Patco Construction Co. v. People’s United Bank</a>, 684 F.3d 197 (1st\
 Cir. 2012). The events occurred in 2009. During a one week period, a bank in Maine authorized fraudulent electronic withdrawals from Patco Construction’s account. The bank’s cybersecurity system had flagged the transactions as high-risk. However, the attackers were able to answer the account security questions and the transactions were allowed. Patco Construction filed suit against the bank alleging that the bank’s cybersecurity practices were not “commercially reasonable” under Article 4A of the UCC. 
