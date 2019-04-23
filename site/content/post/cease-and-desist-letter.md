@@ -15,5 +15,3 @@ You may need an Internet lawyer to assist you with the preparation of a cease an
 Your Internet business may need an effective cease and desist letter to prevent your competitors from copying the contents of your website in order to take advantage of the success of your online business or you may have received an Internet copyright infringement cease and desist notice from an Internet copyright infringement lawyer or Internet trademark infringement lawyer asking you for a significant amount of monetary damages. In addition the copyright infringement cease and desist notice written may contain threats indicating that your company will be the target of a copyright infringement lawsuit, and an injunction against Internet copyright infringement.  Our Internet lawyers can provide assistance in drafting an effective cease and desist notice or responding to a cease and desist notice.
 
 Effective handling of the cease and desist letter may determine whether or not expensive court litigation will be necessary to resolve the legal dispute.
-
-<a title="Internet Lawyer" href="http://cyberinternetlawyer.com/contact-us" target="_self">Contact an Internet Lawyer</a>
