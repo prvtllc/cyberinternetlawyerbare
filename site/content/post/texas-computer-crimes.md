@@ -1,18 +1,14 @@
 ---
-id: 2549
 title: Texas Computer Crimes
-date: 2010-08-25T22:39:34+00:00
-author: admin
-layout: post
-guid: http://cyberinternetlawyer.com/?p=206
-permalink: /texas-computer-crimes/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-categories:
-  - State Computer Crime Statutes
+date: 2010-08-25T22:39:34.000Z
+description: >-
+  Computer virus means an unwanted computer program or other set of instructions
+  inserted into a computer's memory, operating system, or program that is
+  specifically constructed with the ability to replicate itself or to affect the
+  other programs or files in the computer by attaching a copy of the unwanted
+  program or other set of instructions to one or more computer programs or
+  files.
+image: /img/AVMCyberLaw2.jpg
 ---
 Texas Computer Crime Laws
 
@@ -24,33 +20,33 @@ CHAPTER 33. COMPUTER CRIMES
 
 Sec. 33.01.  DEFINITIONS.  In this chapter:
 
-(1)  &#8220;Access&#8221; means to approach, instruct, communicate with, store data in, retrieve or intercept data from, alter data or computer software in, or otherwise make use of any resource of a computer, computer network, computer program, or computer system.
+(1)  Access means to approach, instruct, communicate with, store data in, retrieve or intercept data from, alter data or computer software in, or otherwise make use of any resource of a computer, computer network, computer program, or computer system.
 
-(2)  &#8220;Aggregate amount&#8221; means the amount of:
+(2)  Aggregate amount means the amount of:
 
 (A)  any direct or indirect loss incurred by a victim, including the value of money, property, or service stolen or rendered unrecoverable by the offense; or
 
 (B)  any expenditure required by the victim to verify that a computer, computer network, computer program, or computer system was not altered, acquired, damaged, deleted, or disrupted by the offense.
 
-(3)  &#8220;Communications common carrier&#8221; means a person who owns or operates a telephone system in this state that includes equipment or facilities for the conveyance, transmission, or reception of communications and who receives compensation from persons who use that system.
+(3)  Communications common carrier means a person who owns or operates a telephone system in this state that includes equipment or facilities for the conveyance, transmission, or reception of communications and who receives compensation from persons who use that system.
 
-(4)  &#8220;Computer&#8221; means an electronic, magnetic, optical, electrochemical, or other high-speed data processing device that performs logical, arithmetic, or memory functions by the manipulations of electronic or magnetic impulses and includes all input, output, processing, storage, or communication facilities that are connected or related to the device.
+(4)  Computer means an electronic, magnetic, optical, electrochemical, or other high-speed data processing device that performs logical, arithmetic, or memory functions by the manipulations of electronic or magnetic impulses and includes all input, output, processing, storage, or communication facilities that are connected or related to the device.
 
-(5)  &#8220;Computer network&#8221; means the interconnection of two or more computers or computer systems by satellite, microwave, line, or other communication medium with the capability to transmit information among the computers.
+(5)  Computer network means the interconnection of two or more computers or computer systems by satellite, microwave, line, or other communication medium with the capability to transmit information among the computers.
 
-(6)  &#8220;Computer program&#8221; means an ordered set of data representing coded instructions or statements that when executed by a computer cause the computer to process data or perform specific functions.
+(6)  Computer program means an ordered set of data representing coded instructions or statements that when executed by a computer cause the computer to process data or perform specific functions.
 
-(7)  &#8220;Computer services&#8221; means the product of the use of a computer, the information stored in the computer, or the personnel supporting the computer, including computer time, data processing, and storage functions.
+(7)  Computer services means the product of the use of a computer, the information stored in the computer, or the personnel supporting the computer, including computer time, data processing, and storage functions.
 
-(8)  &#8220;Computer system&#8221; means any combination of a computer or computer network with the documentation, computer software, or physical facilities supporting the computer or computer network.
+(8)  Computer system means any combination of a computer or computer network with the documentation, computer software, or physical facilities supporting the computer or computer network.
 
-(9)  &#8220;Computer software&#8221; means a set of computer programs, procedures, and associated documentation related to the operation of a computer, computer system, or computer network.
+(9)  Computer software means a set of computer programs, procedures, and associated documentation related to the operation of a computer, computer system, or computer network.
 
-(10)  &#8220;Computer virus&#8221; means an unwanted computer program or other set of instructions inserted into a computer&#8217;s memory, operating system, or program that is specifically constructed with the ability to replicate itself or to affect the other programs or files in the computer by attaching a copy of the unwanted program or other set of instructions to one or more computer programs or files.
+(10)  Computer virus means an unwanted computer program or other set of instructions inserted into a computer's memory, operating system, or program that is specifically constructed with the ability to replicate itself or to affect the other programs or files in the computer by attaching a copy of the unwanted program or other set of instructions to one or more computer programs or files.
 
-(11)  &#8220;Data&#8221; means a representation of information, knowledge, facts, concepts, or instructions that is being prepared or has been prepared in a formalized manner and is intended to be stored or processed, is being stored or processed, or has been stored or processed in a computer. Data may be embodied in any form, including but not limited to computer printouts, magnetic storage media, laser storage media, and punchcards, or may be stored internally in the memory of the computer.
+(11)  Data means a representation of information, knowledge, facts, concepts, or instructions that is being prepared or has been prepared in a formalized manner and is intended to be stored or processed, is being stored or processed, or has been stored or processed in a computer. Data may be embodied in any form, including but not limited to computer printouts, magnetic storage media, laser storage media, and punchcards, or may be stored internally in the memory of the computer.
 
-(12)  &#8220;Effective consent&#8221; includes consent by a person legally authorized to act for the owner. Consent is not effective if:
+(12)  Effective consent includes consent by a person legally authorized to act for the owner. Consent is not effective if:
 
 (A)  induced by deception, as defined by Section 31.01, or induced by coercion;
 
@@ -62,11 +58,11 @@ Sec. 33.01.  DEFINITIONS.  In this chapter:
 
 (E)  used for a purpose other than that for which the consent was given.
 
-(13)  &#8220;Electric utility&#8221; has the meaning assigned by Section 31.002, Utilities Code.
+(13)  Electric utility has the meaning assigned by Section 31.002, Utilities Code.
 
-(14)  &#8220;Harm&#8221; includes partial or total alteration, damage, or erasure of stored data, interruption of computer services, introduction of a computer virus, or any other loss, disadvantage, or injury that might reasonably be suffered as a result of the actor&#8217;s conduct.
+(14)  Harm includes partial or total alteration, damage, or erasure of stored data, interruption of computer services, introduction of a computer virus, or any other loss, disadvantage, or injury that might reasonably be suffered as a result of the actor's conduct.
 
-(15)  &#8220;Owner&#8221; means a person who:
+(15)  Owner means a person who:
 
 (A)  has title to the property, possession of the property, whether lawful or not, or a greater right to possession of the property than the actor;
 
@@ -74,7 +70,7 @@ Sec. 33.01.  DEFINITIONS.  In this chapter:
 
 (C)  is the licensee of data or computer software.
 
-(16)  &#8220;Property&#8221; means:
+(16)  Property means:
 
 (A)  tangible or intangible personal property including a computer, computer system, computer network, computer software, or data; or
 
@@ -112,15 +108,15 @@ Added by Acts 1985, 69th Leg., ch. 600, Sec. 1, eff. Sept. 1, 1985. Amended by A
 
 Sec. 33.021.  ONLINE SOLICITATION OF A MINOR.  (a)  In this section:
 
-(1)  &#8220;Minor&#8221; means:
+(1)  Minor means:
 
 (A)  an individual who represents himself or herself to be younger than 17 years of age; or
 
 (B)  an individual whom the actor believes to be younger than 17 years of age.
 
-(2)  &#8220;Sexual contact,&#8221; &#8220;sexual intercourse,&#8221; and &#8220;deviate sexual intercourse&#8221; have the meanings assigned by Section 21.01.
+(2)  Sexual contact, sexual intercourse, and & deviate sexual intercourse have the meanings assigned by Section 21.01.
 
-(3)  &#8220;Sexually explicit&#8221; means any communication, language, or material, including a photographic or video image, that relates to or describes sexual conduct, as defined by Section 43.25.
+(3)  Sexually explicit means any communication, language, or material, including a photographic or video image, that relates to or describes sexual conduct, as defined by Section 43.25.
 
 (b)  A person who is 17 years of age or older commits an offense if, with the intent to arouse or gratify the sexual desire of any person, the person, over the Internet, by electronic mail or text message or other electronic message service or system, or through a commercial online service, intentionally:
 
@@ -172,9 +168,9 @@ Added by Acts 1985, 69th Leg., ch. 600, Sec. 1, eff. Sept. 1, 1985. Renumbered f
 
 Sec. 33.05.  TAMPERING WITH DIRECT RECORDING ELECTRONIC VOTING MACHINE.  (a)  In this section:
 
-(1)  &#8220;Direct recording electronic voting machine&#8221; has the meaning assigned by Section 121.003, Election Code.
+(1)  Direct recording electronic voting machine has the meaning assigned by Section 121.003, Election Code.
 
-(2)  &#8220;Measure&#8221; has the meaning assigned by Section 1.005, Election Code.
+(2)  Measure has the meaning assigned by Section 1.005, Election Code.
 
 (b)  A person commits an offense if the person knowingly accesses a computer, computer network, computer program, computer software, or computer system that is a part of a voting system that uses direct recording electronic voting machines and by means of that access:
 
@@ -186,7 +182,7 @@ Sec. 33.05.  TAMPERING WITH DIRECT RECORDING ELECTRONIC VOTING MACHINE.  (a)
 
 (4)  causes a vote that was not lawfully cast to be counted.
 
-(c)  An offense under this section does not require that the votes as affected by the person&#8217;s actions described by Subsection (b) actually be the votes used in the official determination of the outcome of the election.
+(c)  An offense under this section does not require that the votes as affected by the person's actions described by Subsection (b) actually be the votes used in the official determination of the outcome of the election.
 
 (d)  An offense under this section is a felony of the first degree.
 
@@ -204,13 +200,13 @@ Acts 2009, 81st Leg., R.S., Ch. 503, Sec. 1, eff. September 1, 2009.
 
 Sec. 33.07.  ONLINE HARASSMENT.  (a)  A person commits an offense if the person uses the name or persona of another person to create a web page on or to post one or more messages on a commercial social networking site:
 
-(1)  without obtaining the other person&#8217;s consent; and
+(1)  without obtaining the other person's consent; and
 
 (2)  with the intent to harm, defraud, intimidate, or threaten any person.
 
 (b)  A person commits an offense if the person sends an electronic mail, instant message, text message, or similar communication that references a name, domain address, phone number, or other item of identifying information belonging to any person:
 
-(1)  without obtaining the other person&#8217;s consent;
+(1)  without obtaining the other person's consent;
 
 (2)  with the intent to cause a recipient of the communication to reasonably believe that the other person authorized or transmitted the communication; and
 
@@ -220,7 +216,7 @@ Sec. 33.07.  ONLINE HARASSMENT.  (a)  A person commits an offense if the p
 
 (d)  If conduct that constitutes an offense under this section also constitutes an offense under any other law, the actor may be prosecuted under this section, the other law, or both.
 
-(e)  It is a defense to prosecution under this section that the actor is any of the following entities or that the actor&#8217;s conduct consisted solely of action taken as an employee of any of the following entities:
+(e)  It is a defense to prosecution under this section that the actor is any of the following entities or that the actor's conduct consisted solely of action taken as an employee of any of the following entities:
 
 (1)  a commercial social networking site;
 
@@ -234,8 +230,8 @@ Sec. 33.07.  ONLINE HARASSMENT.  (a)  A person commits an offense if the p
 
 (f)  In this section:
 
-(1)  &#8220;Commercial social networking site&#8221; means any business, organization, or other similar entity operating a website that permits persons to become registered users for the purpose of establishing personal relationships with other users through direct or real-time communication with other users or the creation of web pages or profiles available to the public or to other users.  The term does not include an electronic mail program or a message board program.
+(1)  Commercial social networking site means any business, organization, or other similar entity operating a website that permits persons to become registered users for the purpose of establishing personal relationships with other users through direct or real-time communication with other users or the creation of web pages or profiles available to the public or to other users.  The term does not include an electronic mail program or a message board program.
 
-(2)  &#8220;Identifying information&#8221; has the meaning assigned by Section 32.51.
+(2)  Identifying information has the meaning assigned by Section 32.51.
 
 Added by Acts 2009, 81st Leg., R.S., Ch. 911, Sec. 1, eff. September 1, 2009.
