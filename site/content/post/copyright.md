@@ -6,6 +6,7 @@ description: >-
   you create. Copyrightable items include music, books, websites, graphics,
   poetry, stories, and software. Your copyrighted works may not be copied,
   reproduced, distributed or displayed without your consent.
+image: /img/AVMCyberLaw2.jpg
 ---
 ### Copyright
 
