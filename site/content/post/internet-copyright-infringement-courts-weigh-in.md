@@ -8,7 +8,7 @@ description: >-
   fees.
 image: /img/AVMCyberLaw2.jpg
 ---
-We frequently handle Internet copyright infringement issues.&nbsp; These issues present themselves in many forms.&nbsp; Some examples include: Internet copyright infringement resulting from copied website contents, Internet copyright infringement claims against ISP resulting from copied website photographs, Internet copyright infringement claims against Internet search engine from displaying copyright images as thumbnails with the indexed results, and Internet copyright infringement claim against search engine and online retailer resulting from the use of copyrighted images as thumbnails.
+We frequently handle Internet copyright infringement issues.&nbsp; These issues present themselves in many forms.  Some examples include: Internet copyright infringement resulting from copied website contents, Internet copyright infringement claims against ISP resulting from copied website photographs, Internet copyright infringement claims against Internet search engine from displaying copyright images as thumbnails with the indexed results, and Internet copyright infringement claim against search engine and online retailer resulting from the use of copyrighted images as thumbnails.
 
 Internet copyright infringement decisions are far from uniform.&nbsp; Quite to the contrary, Internet law is one of the least predictable areas of law. However, the decisions of some courts follow:
 
@@ -22,9 +22,9 @@ The Court found that the infringement was willful and awarded statutory damages 
 
 <u><b>Internet copyright infringement claims against ISP resulting from copied website photographs</b></u>
 
-The owner of an Internet website containing commercial real estate information sues an ISP for Internet copyright infringement, contributory copyright infringement, vicarious Internet copyright infringement, and challenging the applicability of the&nbsp;<a href="http://www.cyberinternetlawyer.com/DMCA.html" target="_blank" rel="nofollow" >DMCA</a> safe harbor provision to the ISP.
+The owner of an Internet website containing commercial real estate information sues an ISP for Internet copyright infringement, contributory copyright infringement, vicarious Internet copyright infringement, and challenging the applicability of the DMCA safe harbor provision to the ISP.
 
-A Virginia federal court dismissed the claims of Internet copyright infringement, contributory copyright infringement, and vicarious copyright infringement. The&nbsp;<a href="http://cyberlawyerblog.com/2007/05/30/the-digital-millennium-copyright-act--protecting-the-isps-and-bogging-down-technology.aspx" target="_blank" rel="nofollow" >DMCA safe harbor provision</a> protected the ISP.
+A Virginia federal court dismissed the claims of Internet copyright infringement, contributory copyright infringement, and vicarious copyright infringement. The DMCA safe harbor provision protected the ISP.
 
 A provider of commercial real estate information on the Internet collected a comprehensive a comprehensive database of information on commercial real estate markets and commercial properties in the United States and the United Kingdom. The database, including photographs was available to customers through the Internet.
 
@@ -51,10 +51,7 @@ The use of copyrighted images that were displayed on Internet web sites by opera
 
 <u><b>Internet copyright infringement claim against search engine and online retailer resulting from the use of copyrighted images as thumbnails</b></u>
 
-A copyright owner brought legal action major Internet search engine and Internet retailer for Internet copyright infringement resulting from the copying of copyrighted images. The copyright owner sought a preliminary injunction based on its claim of Internet copyright\
-infringement to prevent the retailer and the search engine from copying, reproducing, distributi\
-ng, displaying, or otherwise\
-infringing, or contributing to the Internet copyright infringement of its photographs.
+A copyright owner brought legal action major Internet search engine and Internet retailer for Internet copyright infringement resulting from the copying of copyrighted images. The copyright owner sought a preliminary injunction based on its claim of Internet copyright infringement to prevent the retailer and the search engine from copying, reproducing, distributi ng, displaying, or otherwise infringing, or contributing to the Internet copyright infringement of its photographs.
 
 A California court dismissed the claim of Internet copyright infringement, held that the Internet search engine operator's display of thumbnail images of copyright owner's photographs, in response to user searches, was fair use of copyrighted photographs; operator put images to a use fundamentally different than use intended by owner, thereby providing significant benefit to the public.
 
@@ -65,7 +62,5 @@ Internet search engine operator's display of thumbnail images of copyright owner
 Even if search engine users who linked to websites showing owner's copyrighted photographs automatically made “cache” copies of full size images of the works, and such action amounted to direct infringement of owner's right of reproduction, such automatic copying was fair use of copyrighted images; such copying was a transformative use, the cache copied no more than was necessary to assist the user in Internet use, and the copying had no more than a minimal effect on owner's rights, while having a considerable public benefit. 17 U.S.C.A. § 107.
 
 Owner of copyrighted photographs was not likely to succeed on its claim of vicarious copyright infringement by Internet search engine operator that provided, to its users, links to third-party websites that reproduced, displayed, and distributed unauthorized copies of owner's images, as required for preliminary injunction prohibiting such linking; owner did not demonstrate likelihood of showing that operator had legal right to stop or limit direct infringement of third-party websites, notwithstanding agreements, through an advertising program, permitting it to terminate an entity's participation in that program, operator could not terminate third-party websites or block their ability to host and serve infringing full-size images on the Internet, and operator lacked practical ability to police the infringing activities of third-party websites.
-
-<a href="http://www.cyberinternetlawyer.com/" target="_blank" rel="nofollow" >Contact us for a professional consultation</a> if you wish to discuss <a href="http://www.cyberinternetlawyer.com/Copyright_Infringement.html" target="_blank" rel="nofollow" >Internet copyright infringement issues</a>&nbsp;or other Internet legal issues with an <a href="http://www.cyberinternetlawyer.com/Internet_Trial_Attorney.html" target="_blank" rel="nofollow" >Internet trial attorney</a>.  
 
 - - -
