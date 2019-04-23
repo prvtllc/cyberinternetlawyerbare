@@ -2,6 +2,7 @@
 title: Communications Decency Act -Sec. 230
 date: 2010-05-21T01:54:00.000Z
 description: §230. Protection for private blocking and screening of offensive material
+image: /img/AVMCyberLaw2.jpg
 ---
 ### The Communications Decency Act
 
