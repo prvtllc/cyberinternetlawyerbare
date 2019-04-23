@@ -2,6 +2,7 @@
 title: Copyright Infringement
 date: 2010-05-19T19:43:50.000Z
 description: "We have knowledge and experience in handling online copyright issues and Internet copyright disputes.\_ Whether someone has copied the contents of your website, has posted your copyrighted photos, music, or other creative works or whether you receive a copyright infringement cease and desist notice or are served with a lawsuit, we can provide you with Internet law assistance."
+image: /img/AVMCyberLaw2.jpg
 ---
 ### Internet Copyright Infringement
 
