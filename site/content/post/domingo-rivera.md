@@ -25,18 +25,10 @@ Domingo J. Rivera earned a B.S. in Computer Engineering, M.S. in Information Tec
 
 Domingo Rivera has passed the Certified Information Systems Security Professional (CISSP) exam.  Additionally, he holds the following Cybersecurity Certifications:
 
-[<img class="alignleft" alt="RiveraAVMCerts2" src="https://i2.wp.com/cyberinternetlawyer.com/wp-content/uploads/2010/05/RiveraAVMCerts2.jpg?resize=248%2C300" width="248" height="300" data-recalc-dims="1" />](https://i2.wp.com/cyberinternetlawyer.com/wp-content/uploads/2010/05/RiveraAVMCerts2.jpg)
+![](/img/riveraavmcerts2-4.jpg "Domingo Rivera has passed the Certified Information Systems Security Professional (CISSP) exam")
 
 With these cybersecurity certifications and experience in defending critical computer networks, you can count on Mr. Rivera to apply both legal and technical expertise to any technically complicated case. Whether the case may involve hacking (unauthorized access to computer systems), online defamation investigation, or legal compliance issues related cybersecurity policy, we can provide techno-legal expertise to any case related to technology.
 
 **Clearance:**
 
-Mr. Rivera maintains a TS/SCI Clearance.  Therefore, he may assist you with sensitive legal issues that may require meeting at a secure facility or understanding the full scope of the situation.  His legal counsel has proven valuable to clients in need of competent and fully informed advice for sensitive matters.
-
-<div id="container2">
-  <div id="content1">
-    <p>
-      <a title="Internet Lawyer" href="http://cyberinternetlawyer.com/contact-us" target="_self"> Contact Us For a Free Internet Law Consultation</a>
-    </p>
-  </div>
-</div>
+Mr. Rivera maintained a TS/SCI Clearance.  Therefore, he may assist you with sensitive legal issues that may require meeting at a secure facility or understanding the full scope of the situation.  His legal counsel has proven valuable to clients in need of competent and fully informed advice for sensitive matters.
