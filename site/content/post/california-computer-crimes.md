@@ -16,25 +16,25 @@ California Unauthorized Access To Computers, Computer Systems and Computer Data
 
 (b) For the purposes of this section, the following terms have the following meanings:
 
-(1) &#8220;Access&#8221; means to gain entry to, instruct, or communicate with the logical, arithmetical, or memory function resources of a computer, computer system, or computer network.
+(1) Access means to gain entry to, instruct, or communicate with the logical, arithmetical, or memory function resources of a computer, computer system, or computer network.
 
-(2) &#8220;Computer network&#8221; means any system which provides communications between one or more computer systems and input/output devices including, but not limited to, display terminals and printers connected by telecommunication facilities.
+(2) Computer network means any system which provides communications between one or more computer systems and input/output devices including, but not limited to, display terminals and printers connected by telecommunication facilities.
 
-(3) &#8220;Computer program or software&#8221; means a set of instructions or statements, and related data, that when executed in actual or modified form, cause a computer, computer system, or computer network to perform specified functions.
+(3) Computer program or software means a set of instructions or statements, and related data, that when executed in actual or modified form, cause a computer, computer system, or computer network to perform specified functions.
 
-(4) &#8220;Computer services&#8221; includes, but is not limited to, computer time, data processing, or storage functions, or other uses of a computer, computer system, or computer network.
+(4) Computer services includes, but is not limited to, computer time, data processing, or storage functions, or other uses of a computer, computer system, or computer network.
 
-(5) &#8220;Computer system&#8221; means a device or collection of devices, including support devices and excluding calculators which are not programmable and capable of being used in conjunction with external files, one or more of which contain computer programs, electronic instructions, input data, and output data, that performs functions including, but not limited to, logic, arithmetic, data storage and retrieval, communication, and control.
+(5) Computer system means a device or collection of devices, including support devices and excluding calculators which are not programmable and capable of being used in conjunction with external files, one or more of which contain computer programs, electronic instructions, input data, and output data, that performs functions including, but not limited to, logic, arithmetic, data storage and retrieval, communication, and control.
 
-(6) &#8220;Data&#8221; means a representation of information, knowledge, facts, concepts, computer software, computer programs or instructions. Data may be in any form, in storage media, or as stored in the memory of the computer or in transit or presented on a display device.
+(6) Data means a representation of information, knowledge, facts, concepts, computer software, computer programs or instructions. Data may be in any form, in storage media, or as stored in the memory of the computer or in transit or presented on a display device.
 
-(7) &#8220;Supporting documentation&#8221; includes, but is not limited to, all information, in any form, pertaining to the design, construction, classification, implementation, use, or modification of a computer, computer system, computer network, computer program, or computer software, which information is not generally available to the public and is necessary for the operation of a computer, computer system, computer network, computer program, or computer software.
+(7) Supporting documentation includes, but is not limited to, all information, in any form, pertaining to the design, construction, classification, implementation, use, or modification of a computer, computer system, computer network, computer program, or computer software, which information is not generally available to the public and is necessary for the operation of a computer, computer system, computer network, computer program, or computer software.
 
-(8) &#8220;Injury&#8221; means any alteration, deletion, damage, or destruction of a computer system, computer network, computer program, or data caused by the access.
+(8) Injury means any alteration, deletion, damage, or destruction of a computer system, computer network, computer program, or data caused by the access.
 
-(9) &#8220;Victim expenditure&#8221; means any expenditure reasonably and necessarily incurred by the owner or lessee to verify that a computer system, computer network, computer program, or data was or was not altered, deleted, damaged, or destroyed by the access.
+(9) Victim expenditure means any expenditure reasonably and necessarily incurred by the owner or lessee to verify that a computer system, computer network, computer program, or data was or was not altered, deleted, damaged, or destroyed by the access.
 
-(10) &#8220;Computer contaminant&#8221; means any set of computer instructions that are designed to modify, damage, destroy, record, or transmit information within a computer, computer system, or computer network without the intent or permission of the owner of the information. They include, but are not limited to, a group of computer instructions commonly called viruses or worms, which are self-replicating or self-propagating and are designed to contaminate other computer programs or computer data, consume computer resources, modify, destroy, record, or transmit data, or in some other fashion usurp the normal operation of the computer, computer system, or computer network.
+(10) Computer contaminant means any set of computer instructions that are designed to modify, damage, destroy, record, or transmit information within a computer, computer system, or computer network without the intent or permission of the owner of the information. They include, but are not limited to, a group of computer instructions commonly called viruses or worms, which are self-replicating or self-propagating and are designed to contaminate other computer programs or computer data, consume computer resources, modify, destroy, record, or transmit data, or in some other fashion usurp the normal operation of the computer, computer system, or computer network.
 
 (c) Except as provided in subdivision (h), any person who commits any of the following acts is guilty of a public offense:
 
@@ -72,7 +72,7 @@ California Unauthorized Access To Computers, Computer Systems and Computer Data
 
 (e) (1) In addition to any other civil remedy available, the owner or lessee of the computer, computer system, computer network, computer program, or data may bring a civil action against any person convicted under this section for compensatory damages, including any expenditure reasonably and necessarily incurred by the owner or lessee to verify that a computer system, computer network, computer program, or data was or was not altered, damaged, or deleted by the access. For the purposes of actions authorized by this subdivision, the conduct of an unemancipated minor shall be imputed to the parent or legal guardian having control or custody of the minor, pursuant to the provisions of Section 1714.1 of the Civil Code.
 
-(2) In any action brought pursuant to this subdivision the court may award reasonable attorney&#8217;s fees to a prevailing party.
+(2) In any action brought pursuant to this subdivision the court may award reasonable attorney's fees to a prevailing party.
 
 (3) A community college, state university, or academic institution accredited in this state is required to include computer-related crimes as a specific violation of college or university student conduct policies and regulations that may subject a student to disciplinary sanctions up to and including dismissal from the academic institution. This paragraph shall not apply to the University of California unless the Board of Regents adopts a resolution to that effect.
 
@@ -98,13 +98,13 @@ California Unauthorized Access To Computers, Computer Systems and Computer Data
 
 (a) As used in this section:
 
-(1) &#8220;Property subject to forfeiture&#8221; means any property of the defendant that is a computer, computer system, or computer network, and any software or data residing thereon, if the computer, computer system, or computer network was used in committing a violation of subdivision (c) of Section 502 or violation of Section 502.7 or was used as a repository for the storage of software or data obtained in violation of those provisions. If the defendant is a minor, it also includes property of the parent or guardian of the defendant.
+(1) Property subject to forfeiture means any property of the defendant that is a computer, computer system, or computer network, and any software or data residing thereon, if the computer, computer system, or computer network was used in committing a violation of subdivision (c) of Section 502 or violation of Section 502.7 or was used as a repository for the storage of software or data obtained in violation of those provisions. If the defendant is a minor, it also includes property of the parent or guardian of the defendant.
 
-(2) &#8220;Sentencing court&#8221; means the court sentencing a person found guilty of violating subdivision (c) of Section 502 or a violation of Section 502.7 or, in the case of a minor found to be a person described in Section 602 of the Welfare and Institutions Code because of a violation of those provisions, the juvenile court.
+(2) Sentencing court means the court sentencing a person found guilty of violating subdivision (c) of Section 502 or a violation of Section 502.7 or, in the case of a minor found to be a person described in Section 602 of the Welfare and Institutions Code because of a violation of those provisions, the juvenile court.
 
-(3) &#8220;Interest&#8221; means any property interest in the property subject to forfeiture.
+(3) Interest means any property interest in the property subject to forfeiture.
 
-(4) &#8220;Security interest&#8221; means an interest that is a lien, mortgage, security interest, or interest under a conditional sales contract.
+(4) Security interest means an interest that is a lien, mortgage, security interest, or interest under a conditional sales contract.
 
 (b) The sentencing court shall, upon petition by the prosecuting attorney, at any time following sentencing, or by agreement of all parties, at the time of sentencing, conduct a hearing to determine whether any property or property interest is subject to forfeiture under this section. At the forfeiture hearing, the prosecuting attorney shall have the burden of establishing, by a preponderance of the evidence, that the property or property interests are subject to forfeiture. The prosecuting attorney may retain seized property that may be subject to forfeiture until the sentencing hearing.
 
@@ -152,7 +152,7 @@ California Unauthorized Access To Computers, Computer Systems and Computer Data
 
 502.5.
 
-Every person who, after mortgaging or encumbering by deed of trust any real property, and during the existence of such mortgage or deed of trust, or after such mortgaged or encumbered property shall have been sold under an order and decree of foreclosure or at trustee&#8217;s sale, and with intent to defraud or injure the mortgagee or the beneficiary or trustee, under such deed of trust, his representatives, successors or assigns, or the purchaser of such mortgaged or encumbered premises at such foreclosure or trustee&#8217;s sale, his representatives, successors or assigns, takes, removes or carries away from such mortgaged or encumbered premises, or otherwise disposes of or permits the taking, removal or carrying away or otherwise disposing of any house, barn, windmill, water tank, pump, engine or other part of the freehold that is attached or affixed to such premises as an improvement thereon, without the written consent of the mortgagee or beneficiary, under deed of trust, his representatives, successors or assigns, or the purchaser at such foreclosure or trustee&#8217;s sale, his representatives, successors or assigns, is guilty of larceny and shall be punished accordingly.
+Every person who, after mortgaging or encumbering by deed of trust any real property, and during the existence of such mortgage or deed of trust, or after such mortgaged or encumbered property shall have been sold under an order and decree of foreclosure or at trustee's sale, and with intent to defraud or injure the mortgagee or the beneficiary or trustee, under such deed of trust, his representatives, successors or assigns, or the purchaser of such mortgaged or encumbered premises at such foreclosure or trustee's sale, his representatives, successors or assigns, takes, removes or carries away from such mortgaged or encumbered premises, or otherwise disposes of or permits the taking, removal or carrying away or otherwise disposing of any house, barn, windmill, water tank, pump, engine or other part of the freehold that is attached or affixed to such premises as an improvement thereon, without the written consent of the mortgagee or beneficiary, under deed of trust, his representatives, successors or assigns, or the purchaser at such foreclosure or trustee's sale, his representatives, successors or assigns, is guilty of larceny and shall be punished accordingly.
 
 502.7
 
@@ -174,7 +174,7 @@ Every person who, after mortgaging or encumbering by deed of trust any real prop
 
 (2) Sells, gives, or otherwise transfers to another or offers, or advertises plans or instructions for making or assembling an instrument, apparatus, or device described in paragraph (1) of this subdivision with knowledge or reason to believe that they may be used to make or assemble the instrument, apparatus, or device.
 
-(c) Any person who publishes the number or code of an existing, canceled, revoked, expired, or nonexistent credit card, or the numbering or coding which is employed in the issuance of credit cards, with the intent that it be used or with knowledge or reason to believe that it will be used to avoid the payment of any lawful telephone or telegraph toll charge is guilty of a misdemeanor. Subdivision (g) shall not apply to this subdivision. As used in this section, &#8220;publishes&#8221; means the communication of information to any one or more persons, either orally, in person or by telephone, radio, or television, or electronic means, including, but not limited to, a bulletin board system, or in a writing of any kind, including without limitation a letter or memorandum, circular or handbill, newspaper, or magazine article, or book.
+(c) Any person who publishes the number or code of an existing, canceled, revoked, expired, or nonexistent credit card, or the numbering or coding which is employed in the issuance of credit cards, with the intent that it be used or with knowledge or reason to believe that it will be used to avoid the payment of any lawful telephone or telegraph toll charge is guilty of a misdemeanor. Subdivision (g) shall not apply to this subdivision. As used in this section,  publishes means the communication of information to any one or more persons, either orally, in person or by telephone, radio, or television, or electronic means, including, but not limited to, a bulletin board system, or in a writing of any kind, including without limitation a letter or memorandum, circular or handbill, newspaper, or magazine article, or book.
 
 (d) Any person who is the issuee of a calling card, credit card, calling code, or any other means or device for the legal use of telecommunications services and who receives anything of value for knowingly allowing another person to use the means or device in order to fraudulently obtain telecommunications services is guilty of a misdemeanor or a felony, except as provided in subdivision (g).
 
