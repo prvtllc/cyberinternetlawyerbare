@@ -1,12 +1,15 @@
 ---
-title: AVM Cyber Law
+title: Practice Areas
 image: /img/AVMCyberLaw2.jpg
 heading: Domingo J. Rivera - Forensics Expert and Cyber Lawyer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Domingo J. Rivera practices Internet and technology law, particularly handling
+  cases involving Intellectual Property, Internet Law, Cyber Defamation and
+  Computer Crime Defense.  Attorney Domingo J. Rivera has advanced degrees in
+  Engineering and Business Administration.  We can analyze your case from all
+  the legal, technical, and business angles.  Our Internet attorneys and
+  Internet legal professionals not only litigate the Internet… we also
+  understand the technology and the business engine behind it!
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -36,12 +39,26 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: A combination of Cyber Law and Cyber Forensics
+  description: >-
+    In addition to these certifications, we have in-house experience defending
+    some of the most critical networks in the world.  Rather than having to
+    explain cybersecurity issues to a good attorney, we can provide great
+    attorneys with hands-on experience that can provide relevant, timely, and
+    competent cybersecurity legal advice.
+
+     Attorney Domingo J. Rivera is recognized internationally as an attorney handling matters involving Internet Law – One of his appearances was with the BBC:
+
+    Click here to listen to a portion of Domingo J. Rivera’s interview with the
+    BBC for an audience of over 183 million people.
+
+
+    Our Internet law firm and our cases have been featured and/or reported by
+    The New York Times, The Washington Post, the Mount Vernon Daily, the Journal
+    of Legal Medicine, Federal Computer Weekly, and others.  We also are the
+    Internet Lawyer of choice for organizations dedicated to protecting
+    professionals, including physicians and medical doctors, against frivolous
+    complaints.
 main:
   heading: Great coffee with no compromises
   description: >
