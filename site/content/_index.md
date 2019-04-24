@@ -1,10 +1,10 @@
 ---
-title: "Practice Areas"
-subtitle: Our Cyberlaw Practice Areas
+title: "AVM Cyberlaw - Domingo J. Rivera"
+subtitle: Internet Law and Computer Forensics Consulting
 image: /img/AVMCyberLaw2.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: An Internet Law pioneer with a proven record and a Cyber Forensics Expert
+    text: "Domingo J. Rivera was the first attorney in the United States to win a complex jury trial involving Federal Copyright Infringement, music piracy criminal allegations. This was also the most important case of its type.  Our client was alleged to be the leader of the most prolific music piracy group in the world.  After five days of trial, the jury agreed with us and returned a Not Guilty verdict.  Today, Domingo Rivera consults with businesses and attorneys in cyber forensics and Internet investigations"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
