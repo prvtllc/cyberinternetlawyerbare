@@ -1,28 +1,47 @@
 ---
-title: Values
+title: Practice Areas
 image: /img/AVMCyberLaw2.jpg
 values:
-  - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
+  - heading: Cyber Forensics and Investigations
+    imageUrl: /img/avmforensic-2.jpg
+    text: >-
+      We frequently assist attorneys with computer forensics matters. As
+      computer forensics experts, we assist in the investigation of unauthorized
+      access to computer systems, business fraud, employee computer fraud and
+      theft, employee theft, Intellectual Property disputes, recovery of digital
+      data, wrongful termination cases, criminal cases involving computer crimes
+      or digital evidence (such as hacking, child pornography cases and Internet
+      solicitation), divorce and other domestic disputes, and uncovering of
+      illegal activity.
+  - heading: Cyber Crimes and Cyber Security Investigations
+    imageUrl: /img/avm-keyboard-key-2.jpg
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
+      Our cyber crime expert and forensic investigators can protect your rights
+      when you are a victim of or accused of (or if you are an attorney
+      representing a client who is facing any cyber crime issues):
+
+
+      An Internet crime,  Computer hacking, computer cracking, or violations of
+      the Computer Fraud and Abuse Act.  Whether the case or investigation
+      involves Computer trespass, Criminal Internet copyright infringement,
+      Access Device Fraud, Unsolicited email and SPAM, Identity Theft,
+      Trafficking in passwords
+
+      Access Device Fraud, Civil liability resulting from the Internet crimes
+      discussed above; Contact us to obtain professional assistance.
+  - heading: Internet Defamation
+    imageUrl: /img/avm-keyboard-glove-2.jpg
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-  - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+      We frequently assist clients and attorneys in the investigation of the
+      authorship of defamatory posts in online sites, Internet blogs or Internet
+      forum.  These posts are damaging to your reputation and legitimate
+      businesses.   Further, some of these websites leverage the Communications
+      Decency Act to mask unlawful actions by the site owners themselves.  Libel
+      being spread through the use of the Internet affects you.  Also,
+      competitors attempt to gain an advantage by defaming you online.  The
+      defamatory statements on the Internet prevent you from advancing your
+      career.  We assist clients and attorneys in investigating the authors of
+      the posts.
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
