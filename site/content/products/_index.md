@@ -1,5 +1,5 @@
 ---
-title: Practice Areas
+title: Attorneys
 image: /img/AVMCyberLaw2.jpg
 heading: Domingo J. Rivera - Forensics Expert and Cyber Lawyer
 description: >-
