@@ -1,6 +1,6 @@
 ---
 title: Trademark Infringement
-date: 2010-05-19T20:15:30.000Z
+date: 2014-05-19T20:15:30.000Z
 description: >-
   Domain name cybersquatters may intend to profit from the brand recognition,
   create customer confusion to promote competing products, or simply want to

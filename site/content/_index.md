@@ -6,15 +6,15 @@ blurb:
     heading: An Internet Law pioneer with a proven record and a Cyber Forensics Expert
     text: "Domingo J. Rivera was the first attorney in the United States to win a complex jury trial involving Federal Copyright Infringement, music piracy criminal allegations. This was also the most important case of its type.  Our client was alleged to be the leader of the most prolific music piracy group in the world.  After five days of trial, the jury agreed with us and returned a Not Guilty verdict.  Today, Domingo Rivera consults with businesses and attorneys in cyber forensics and Internet investigations"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Attorneys and Computer Forensics Experts"
+    text: "Domingo J. Rivera Is one of the few attorneys holding Information Security Certifications, including the prestigious CISSP, GCFE, GPEN, GCIH, GSLC, CEH.  Of those, is also one of the select few with vast experience defending highly sensitive computer networks for the United States Marine Corps under the purview of the United States Cyber Command."
 professionals:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/avmforensic-2.jpg
+      text: "With these cybersecurity certifications and experience in defending critical computer networks, you can count on Mr. Rivera to apply both legal and technical expertise to any technically complicated case."
+    - image: /img/avm-keyboard-key-2.jpg
+      text: "Domingo J. Rivera earned a B.S. in Computer Engineering, M.S. in Information Technology, an MBA, a Doctorate of Jurisprudence and an advanced post-JD Law Degree."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Practice
+    text: At the Rivera Law Group Internet Law practice, we have a vast amount of experience in Internet Law cases and litigation. We are a pioneering Cyber Law firm that knows when to fight for our client and when to make the absolute best of an already difficult situation. 
 ---
 

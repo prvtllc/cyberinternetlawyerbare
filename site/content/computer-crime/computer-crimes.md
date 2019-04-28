@@ -1,6 +1,6 @@
 ---
 title: Computer Crimes
-date: 2010-05-19T20:37:02.000Z
+date: 2014-05-19T20:37:02.000Z
 description: "Most states have enacted Internet and computer crimes statutes, including among many others Virginia, California, New York, Alabama.\_ Many of these statutes not only provide for criminal prosecution but also for civil liability."
 image: /img/AVMCyberLaw2.jpg
 ---

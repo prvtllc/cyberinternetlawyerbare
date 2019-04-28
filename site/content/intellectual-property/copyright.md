@@ -1,6 +1,6 @@
 ---
 title: Copyright
-date: 2010-05-20T02:26:39.000Z
+date: 2011-05-20T02:26:39.000Z
 description: >-
   A copyright is the legal protection for the artistic and literary work that
   you create. Copyrightable items include music, books, websites, graphics,

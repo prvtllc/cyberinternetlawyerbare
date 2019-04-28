@@ -1,6 +1,6 @@
 ---
 title: Internet Defamation
-date: 2010-05-19T20:28:41.000Z
+date: 2014-05-19T20:28:41.000Z
 description: "Internet Defamation occurs when someone posts a false factual negative statement on the Internet.\_ We encounter Internet defamation most frequently as a result of statements posted in a web log (blog) or in an Internet forum."
 image: /img/AVMCyberLaw2.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Domain Names
-date: 2010-05-19T20:26:06.000Z
+date: 2014-05-19T20:26:06.000Z
 description: >-
   Our domain name lawyers assist our clients with issues pertaining to domain
   name laws. The laws applying to domain name issues and domain name disputes

@@ -1,6 +1,6 @@
 ---
 title: Trademark
-date: 2010-05-20T02:38:33.000Z
+date: 2011-05-20T02:38:33.000Z
 description: >-
   A Trademark identifies your company’s goods from the goods of your competitors
   or other third parties. Trademark Registration allows you to keep your
