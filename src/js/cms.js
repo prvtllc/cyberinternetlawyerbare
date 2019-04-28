@@ -9,7 +9,7 @@ import ComputerCrimePreview from "./cms-preview-templates/computer-crime";
 import DomainNamesPreview from "./cms-preview-templates/domain-names";
 import IntellectualPropertyPreview from "./cms-preview-templates/intellectual-property";
 import ProductsPreview from "./cms-preview-templates/professionals";
-import ValuesPreview from "./cms-preview-templates/values";
+import ValuesPreview from "./cms-preview-templates/practice";
 import ContactPreview from "./cms-preview-templates/contact";
 
 
