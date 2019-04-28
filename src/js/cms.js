@@ -8,7 +8,7 @@ import ForensicsPreview from "./cms-preview-templates/forensics";
 import ComputerCrimePreview from "./cms-preview-templates/computer-crime";
 import DomainNamesPreview from "./cms-preview-templates/domain-names";
 import IntellectualPropertyPreview from "./cms-preview-templates/intellectual-property";
-import ProductsPreview from "./cms-preview-templates/products";
+import ProductsPreview from "./cms-preview-templates/professionals";
 import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 
