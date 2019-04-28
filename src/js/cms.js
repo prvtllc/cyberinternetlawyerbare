@@ -9,7 +9,7 @@ import ComputerCrimePreview from "./cms-preview-templates/computer-crime";
 import DomainNamesPreview from "./cms-preview-templates/domain-names";
 import IntellectualPropertyPreview from "./cms-preview-templates/intellectual-property";
 import ProductsPreview from "./cms-preview-templates/professionals";
-import ValuesPreview from "./cms-preview-templates/practice";
+import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 
 
@@ -34,6 +34,6 @@ CMS.registerPreviewTemplate("computer-crime", ComputerCrimePreview);
 CMS.registerPreviewTemplate("domain-names", DomainNamesPreview);
 CMS.registerPreviewTemplate("intellectual-property", IntellectualPropertyPreview);
 CMS.registerPreviewTemplate("professionals", ProductsPreview);
-CMS.registerPreviewTemplate("practice", ValuesPreview);
+CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerWidget("color", ColorControl);
