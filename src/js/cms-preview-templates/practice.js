@@ -29,8 +29,8 @@ export default class ValuesPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryValues = entry.getIn(["data", "values"]);
-    const values = entryValues ? entryValues.toJS() : [];
+    const entryValues = entry.getIn(["data", "practice"]);
+    const practice = entryValues ? entryValues.toJS() : [];
     
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
