@@ -33,7 +33,7 @@ CMS.registerPreviewTemplate("forensics", ForensicsPreview);
 CMS.registerPreviewTemplate("computer-crime", ComputerCrimePreview);
 CMS.registerPreviewTemplate("domain-names", DomainNamesPreview);
 CMS.registerPreviewTemplate("intellectual-property", IntellectualPropertyPreview);
-CMS.registerPreviewTemplate("products", ProductsPreview);
+CMS.registerPreviewTemplate("professionals", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerWidget("color", ColorControl);
