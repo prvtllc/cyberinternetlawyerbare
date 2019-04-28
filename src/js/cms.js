@@ -34,6 +34,6 @@ CMS.registerPreviewTemplate("computer-crime", ComputerCrimePreview);
 CMS.registerPreviewTemplate("domain-names", DomainNamesPreview);
 CMS.registerPreviewTemplate("intellectual-property", IntellectualPropertyPreview);
 CMS.registerPreviewTemplate("professionals", ProductsPreview);
-CMS.registerPreviewTemplate("practice", ValuesPreview);
+CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerWidget("color", ColorControl);
