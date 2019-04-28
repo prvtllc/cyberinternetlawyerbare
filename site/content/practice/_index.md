@@ -1,7 +1,7 @@
 ---
 title: Practice Areas
 image: /img/AVMCyberLaw2.jpg
-practice:
+values:
   - heading: About Our Practice
     imageUrl: /img/avmcomputerforensicscase.jpg
     text: >-
